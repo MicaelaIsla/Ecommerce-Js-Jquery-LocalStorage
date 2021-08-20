@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "Han Hialuronic",
+        "category" : "Low Poo",
+        "price" : "500",
+        "imgSrc" : "images/hanHialuronic.jpeg"
+    },
+    {
+        "name" : "Shampoo Skala",
+        "category" : "Low poo",
+        "price" : "600.00",
+        "imgSrc" : "images/shampooSkala.jpeg"
+    },
+    {
+        "name" : "Shampoo Nov",
+        "category" : "Low poo",
+        "price" : "120.00",
+        "imgSrc" : "images/nov.jpg"
+    },
+    {
+        "name" : "Cremas skalas",
+        "category" : "Baño de crema",
+        "price" : "800.00",
+        "imgSrc" : "images/skalas.jpeg"
+    },
+    {
+        "name" : "Suave Palta",
+        "category" : "Cowash",
+        "price" : "120.00",
+        "imgSrc" : "images/suave.jpg"
+    },
+    {
+        "name" : "Acondicionador Palta",
+        "category" : "Cowash",
+        "price" : "120.00",
+        "imgSrc" : "images/acondipalta.jpeg"
+    },
+    {
+        "name" : "Kit verde de natura",
+        "category" : "Linea completa apta",
+        "price" : "2500.00",
+        "imgSrc" : "images/natura.jpg"
+    },
+    {
+        "name" : "Gel aurill",
+        "category" : "Gel",
+        "price" : "500.00",
+        "imgSrc" : "images/aurill.jpeg"
+    }
+]
